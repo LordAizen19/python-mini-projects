@@ -40,7 +40,7 @@ This repository documents my journey from zero to backend engineering. It focuse
 ## 🛠️ How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/LordAizen19/python-mastery-roadmap.git]
+    git clone https://github.com/LordAizen19/python-mastery-roadmap.git
     ```
 2.  Navigate to the project directory:
     ```bash
