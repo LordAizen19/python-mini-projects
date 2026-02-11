@@ -2,6 +2,8 @@
 
 A collection of command-line applications built as part of the [roadmap.sh](https://roadmap.sh) backend development track. These projects demonstrate practical Python programming skills, CLI design patterns, and progressive problem-solving through hands-on development.
 
+**Repository:** https://github.com/LordAizen19/python-projects
+
 ## Tech Stack
 
 - **Language:** Python 3.x
